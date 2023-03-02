@@ -7,7 +7,7 @@ public class primeraconsignaA {
 	public static void main(String[] args) {
 System.out.println("consigna 1a");
 		
-		int X = 5;
+		int X = 3;
 		int Y = 14;
 		
 		while(X<=Y) {
